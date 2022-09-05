@@ -38,7 +38,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=LiBatLedDriver\LiBatLedDriver.SchDoc
+DocumentPath=LiBatLedDriver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -52,7 +52,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=SUTQBFAE
+DocumentUniqueId=DPROTBWE
 
 [Configuration1]
 Name=Sources
